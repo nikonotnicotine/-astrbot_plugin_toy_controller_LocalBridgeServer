@@ -1,6 +1,6 @@
 # AI Toy Controller - Local Bridge (AI 控制玩具 - 本地中继服务)
 
-本仓库是 [AI 控制玩具 AstrBot 插件](这里填入你插件仓库的网址) 的**配套本地运行服务**。
+本仓库是 [AI 控制玩具 AstrBot 插件](https://github.com/nikonotnicotine/astrbot_plugin_toy_controller) 的**配套本地运行服务**。
 
 ## 💡 为什么需要这个？
 因为 AstrBot 机器人通常部署在云端服务器（VPS）上，而你的实体玩具使用的是**本地电脑的蓝牙**。云端无法直接发送蓝牙信号到你的房间里。
